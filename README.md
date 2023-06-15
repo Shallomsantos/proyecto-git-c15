@@ -28,5 +28,4 @@ git clone https://github.com/shallomsantos/curso-git.git
 
 Encontrarás los archivos del curso organizados en carpetas por sección y lecciones. Cada lección contendrá instrucciones detalladas y ejemplos de código para que puedas practicar y experimentar con Git.
 
-Contribución, por ahora solo yo. 
-
+Contribución, por ahora solo yo.
