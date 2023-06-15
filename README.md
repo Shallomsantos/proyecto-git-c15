@@ -20,7 +20,7 @@ Herramientas y recursos adicionales: Uso de herramientas gráficas, integración
 Requisitos previos
 No se requieren conocimientos previos de Git para tomar este curso. Sin embargo, es recomendable tener experiencia básica en el desarrollo de software y estar familiarizado con la línea de comandos de tu sistema operativo.
 
-Cómo utilizar este repositorio
+**Cómo utilizar este repositorio**
 Este repositorio contiene todo el material necesario para seguir el curso. Puedes clonar este repositorio en tu máquina local utilizando el siguiente comando:
 
 shell Copy code
@@ -28,6 +28,4 @@ git clone https://github.com/shallomsantos/curso-git.git
 
 Encontrarás los archivos del curso organizados en carpetas por sección y lecciones. Cada lección contendrá instrucciones detalladas y ejemplos de código para que puedas practicar y experimentar con Git.
 
-Contribución
-Este repositorio está destinado exclusivamente para el curso de Git. No se aceptarán contribuciones externas en este momento.
 
